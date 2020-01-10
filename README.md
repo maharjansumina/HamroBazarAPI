@@ -6,6 +6,6 @@
 - Use command `npm install` to download all necessary packages from npm.
 - Use `sudo service mongod start` to start the project
 - Use `npm start` to start the project
-- Your app will run at port 3012.
-- Example: `http://localhost:3025/`
+- Your app will run at port 3050.
+- Example: `http://localhost:3050/`
 - Enjoy!
